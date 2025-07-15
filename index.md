@@ -25,15 +25,21 @@ I am currently a Computer Science Ph.D student at [University of Texas at Dallas
 ## Publications
 
 - [MMVU: Measuring Expert-Level Multi-Discipline Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_MMVU_Measuring_Expert-Level_Multi-Discipline_Video_Understanding_CVPR_2025_paper.html)
+  
   Yilun Zhao, Haowei Zhang, Lujing Xie, Tongyan Hu, Guo Gan, Yitao Long, Zhiyuan Hu, Weiyuan Chen, Chuhan Li, Zhijian Xu, Chengye Wang, Ziyao Shangguan, Zhenwen Liang, Yixin Liu, Chen Zhao, Arman Cohan
+
   Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR),2025
 
 - [OpenT2T: An Open-Source Toolkit for Table-to-Text Generation](https://aclanthology.org/2024.emnlp-demo.27/)
+  
   Haowei Zhang, Shengyun Si, Yilun Zhao, Lujing Xie, Zhijian Xu, Lyuhao Chen, Linyong Nan, Pengcheng Wang, Xiangru Tang, Arman Cohan
+
   Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
 
 - [Bacon: Boosting imbalanced semi-supervised learning via balanced feature-level contrastive learning](https://ojs.aaai.org/index.php/AAAI/article/view/29084)
+  
   Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin
+
   Proceedings of the AAAI Conference on Artificial Intelligence, 2024
 
 <!-- - pvpAMM: A perpetual market for unbalanced long-short positions  
