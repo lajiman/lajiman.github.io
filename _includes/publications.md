@@ -91,20 +91,14 @@ The code is written in Markdown and is intended to be used in a website or web p
 
 ## Publications
 
-- [MMVU: Measuring Expert-Level Multi-Discipline Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_MMVU_Measuring_Expert-Level_Multi-Discipline_Video_Understanding_CVPR_2025_paper.html)
-  
-  Yilun Zhao, Haowei Zhang, Lujing Xie, Tongyan Hu, Guo Gan, Yitao Long, Zhiyuan Hu, Weiyuan Chen, Chuhan Li, Zhijian Xu, Chengye Wang, Ziyao Shangguan, Zhenwen Liang, Yixin Liu, Chen Zhao, Arman Cohan
-
+- [MMVU: Measuring Expert-Level Multi-Discipline Video Understanding](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_MMVU_Measuring_Expert-Level_Multi-Discipline_Video_Understanding_CVPR_2025_paper.html)<br>
+  Yilun Zhao, Haowei Zhang, Lujing Xie, Tongyan Hu, Guo Gan, Yitao Long, Zhiyuan Hu, Weiyuan Chen, Chuhan Li, Zhijian Xu, Chengye Wang, Ziyao Shangguan, Zhenwen Liang, Yixin Liu, Chen Zhao, Arman Cohan<br>
   Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR),2025
 
-- [OpenT2T: An Open-Source Toolkit for Table-to-Text Generation](https://aclanthology.org/2024.emnlp-demo.27/)
-  
-  Haowei Zhang, Shengyun Si, Yilun Zhao, Lujing Xie, Zhijian Xu, Lyuhao Chen, Linyong Nan, Pengcheng Wang, Xiangru Tang, Arman Cohan
-
+- [OpenT2T: An Open-Source Toolkit for Table-to-Text Generation](https://aclanthology.org/2024.emnlp-demo.27/)<br>
+  Haowei Zhang, Shengyun Si, Yilun Zhao, Lujing Xie, Zhijian Xu, Lyuhao Chen, Linyong Nan, Pengcheng Wang, Xiangru Tang, Arman Cohan<br>
   Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing: System Demonstrations
 
-- [Bacon: Boosting imbalanced semi-supervised learning via balanced feature-level contrastive learning](https://ojs.aaai.org/index.php/AAAI/article/view/29084)
-  
-  Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin
-
+- [Bacon: Boosting imbalanced semi-supervised learning via balanced feature-level contrastive learning](https://ojs.aaai.org/index.php/AAAI/article/view/29084)<br>
+  Qianhan Feng, Lujing Xie, Shijie Fang, Tong Lin<br>
   Proceedings of the AAAI Conference on Artificial Intelligence, 2024
